@@ -4,6 +4,7 @@
 <!DOCTYPE html>
 <html>
 <head>s
+<meta charset="ISO-8859-1">
 <title>Welcome home</title>
 </head>
 <body>
@@ -11,4 +12,4 @@
 </body>
 </html>
 '''
-http://18.234.61.91:8080/Welcome.example/welcome.html
+http://localhost:8080/Welcome.example/welcome.html
